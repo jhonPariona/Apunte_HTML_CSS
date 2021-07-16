@@ -17,6 +17,8 @@
   {% endfor %}
 </ul>
 
+## 📜 Paginas
+
 <ul>
   {% for page in site.pages %}
     <li>
