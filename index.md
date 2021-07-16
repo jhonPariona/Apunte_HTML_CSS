@@ -17,7 +17,7 @@
   {% endfor %}
 </ul>
 
-## 📜 Paginas
+## 📜 Paginas resueltas
 
 <ul>
   {% for page in site.pages %}
