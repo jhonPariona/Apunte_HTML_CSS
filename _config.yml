@@ -2,7 +2,6 @@
 title: Apuntes de HTML y CSS
 email: wilder.code.27@gmail.com
 description: Sitio de mis apuntes de HTML y CSS
-
 collections:
   pages:
     permalink: "/:collection/:path/"
@@ -10,5 +9,16 @@ collections:
   posts:
     permalink: "/news/:year/:month/:day/:title/"
     output: true
+defaults:
+- scope:
+    path: _pages
+    type: pages
+  values:
+    layout: pages
+- scope:
+    path: _posts
+    type: posts
+  values:
+    layout: posts
 
 theme: jekyll-theme-midnight
