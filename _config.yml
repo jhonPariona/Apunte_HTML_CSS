@@ -4,10 +4,8 @@ email: wilder.code.27@gmail.com
 description: Sitio de mis apuntes de HTML y CSS
 collections:
   pages:
-    permalink: "/:collection/:path/"
     output: true
   posts:
-    permalink: "/news/:year/:month/:day/:title/"
     output: true
 defaults:
 - scope:
