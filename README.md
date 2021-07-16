@@ -8,5 +8,3 @@
 </h1>
 
 
-<p align="center"> 🐱‍🏍 Apuntes sobre HTML y CSS 😎 </p>
-
