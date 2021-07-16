@@ -1,1 +1,11 @@
+# Site settings
+title: Apuntes de HTML y CSS
+email: wilder.code.27@gmail.com
+description: >
+Sitio de mis apuntes de HTML y CSS
+
+# config carpetas
+post_layout: _posts
+page_layout: _pages
+
 theme: jekyll-theme-time-machine
